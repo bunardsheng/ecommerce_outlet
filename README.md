@@ -1,4 +1,4 @@
-# ecommerce_outlet
+# E-Commerce Outlet
 A full-stack e-commerce website application, designed in HTML, CSS, JavaScript, Ruby on Rails.
 
 The application features 3 users: Customers, Shippers, and Admins.
